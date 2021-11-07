@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Wed Sep  2 21:24:04 2020 by SUMO Version 0.32.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="data/Manhattan-2way/Manhattan.net.xml"/>
+        <route-files value="data/Manhattan-2way/cars.rou.xml"/>
+        <additional-files value="data/Manhattan-2way/Manhattan.poly.xml,data/Manhattan-2way/Manhattan.det.double.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="20000"/>
+        <step-length value="0.1"/>
+    </time>
+
+    <processing>
+        <default.action-step-length value="0.8"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.adaptation-steps value="180"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <duration-log.statistics value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="39059"/>
+    </traci_server>
+
+    <gui_only>
+        <gui-settings-file value="data/Manhattan-2way/osm.view.xml"/>
+        <start value="true"/>
+        <tracker-interval value="0.1"/>
+    </gui_only>
+
+</configuration>

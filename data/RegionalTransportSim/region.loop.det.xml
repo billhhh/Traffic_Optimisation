@@ -1,0 +1,85 @@
+<additional>
+	<inductionLoop id="Det112_1" lane="L112_1" freq='100' file='det.output.xml' pos="140.53" />
+	<inductionLoop id="Det112_2" lane="L112_2" freq='100' file='det.output.xml' pos="140.53" />
+	<inductionLoop id="Det112_3" lane="L112_3" freq='100' file='det.output.xml' pos="1084.02" />
+	<inductionLoop id="Det112_4" lane="L112_4" freq='100' file='det.output.xml' pos="1084.02" />
+	<inductionLoop id="Det112_5" lane="L112_5" freq='100' file='det.output.xml' pos="210.57" />
+	<inductionLoop id="Det112_6" lane="L112_6" freq='100' file='det.output.xml' pos="210.57" />
+	<inductionLoop id="Det112_7" lane="L112_7" freq='100' file='det.output.xml' pos="145.32" />
+	
+	<inductionLoop id="Det122_1" lane="L122_1" freq='100' file='det.output.xml' pos="78.05" />
+	<inductionLoop id="Det122_2" lane="L122_2" freq='100' file='det.output.xml' pos="78.05" />
+	<inductionLoop id="Det122_3" lane="L122_3" freq='100' file='det.output.xml' pos="55" />
+	<inductionLoop id="Det122_4" lane="L122_4" freq='100' file='det.output.xml' pos="147.55" />
+	<inductionLoop id="Det122_5" lane="L122_5" freq='100' file='det.output.xml' pos="147.55" />
+	<inductionLoop id="Det122_6" lane="L122_6" freq='100' file='det.output.xml' pos="39.64" />
+	
+	<inductionLoop id="Det209_1" lane="L209_1" freq='100' file='det.output.xml' pos="180.53" />
+	<inductionLoop id="Det209_2" lane="L209_2" freq='100' file='det.output.xml' pos="180.53" />
+	<inductionLoop id="Det209_3" lane="L209_3" freq='100' file='det.output.xml' pos="180.53" />
+	<inductionLoop id="Det209_4" lane="L209_4" freq='100' file='det.output.xml' pos="12.87" />
+	<inductionLoop id="Det209_5" lane="L209_5" freq='100' file='det.output.xml' pos="12.87" />
+	<inductionLoop id="Det209_6" lane="L209_6" freq='100' file='det.output.xml' pos="12.87" />
+	<inductionLoop id="Det209_7" lane="L209_7" freq='100' file='det.output.xml' pos="12.87" />
+	<inductionLoop id="Det209_8" lane="L209_8" freq='100' file='det.output.xml' pos="130.35" />
+	<inductionLoop id="Det209_9" lane="L209_9" freq='100' file='det.output.xml' pos="130.35" />
+	<inductionLoop id="Det209_10" lane="L209_10" freq='100' file='det.output.xml' pos="130.35" />
+	
+	<inductionLoop id="Det210_1" lane="L210_1" freq='100' file='det.output.xml' pos="15.23" />
+	<inductionLoop id="Det210_2" lane="L210_2" freq='100' file='det.output.xml' pos="141.74" />
+	<inductionLoop id="Det210_3" lane="L210_3" freq='100' file='det.output.xml' pos="141.74" />
+	<inductionLoop id="Det210_4" lane="L210_4" freq='100' file='det.output.xml' pos="42.94" />
+	<inductionLoop id="Det210_5" lane="L210_5" freq='100' file='det.output.xml' pos="80.62" />
+	<inductionLoop id="Det210_6" lane="L210_6" freq='100' file='det.output.xml' pos="80.62" />
+	
+	<inductionLoop id="Det212_1" lane="L212_1" freq='100' file='det.output.xml' pos="10.43" />
+	<inductionLoop id="Det212_2" lane="L212_2" freq='100' file='det.output.xml' pos="98.59" />
+	<inductionLoop id="Det212_3" lane="L212_3" freq='100' file='det.output.xml' pos="98.59" />
+	<inductionLoop id="Det212_4" lane="L212_4" freq='100' file='det.output.xml' pos="98.59" />
+	<inductionLoop id="Det212_5" lane="L212_5" freq='100' file='det.output.xml' pos="98.59" />
+	<inductionLoop id="Det212_6" lane="L212_6" freq='100' file='det.output.xml' pos="111.25" />
+	<inductionLoop id="Det212_7" lane="L212_7" freq='100' file='det.output.xml' pos="168.46" />
+	<inductionLoop id="Det212_8" lane="L212_8" freq='100' file='det.output.xml' pos="168.46" />
+	<inductionLoop id="Det212_9" lane="L212_9" freq='100' file='det.output.xml' pos="168.46" />
+	
+	<inductionLoop id="Det213_1" lane="L213_1" freq='100' file='det.output.xml' pos="152.49" />
+	<inductionLoop id="Det213_2" lane="L213_2" freq='100' file='det.output.xml' pos="152.49" />
+	<inductionLoop id="Det213_3" lane="L213_3" freq='100' file='det.output.xml' pos="121.11" />
+	<inductionLoop id="Det213_4" lane="L213_4" freq='100' file='det.output.xml' pos="121.11" />
+	<inductionLoop id="Det213_5" lane="L213_5" freq='100' file='det.output.xml' pos="121.11" />
+	<inductionLoop id="Det213_6" lane="L213_6" freq='100' file='det.output.xml' pos="121.11" />
+	<inductionLoop id="Det213_7" lane="L213_7" freq='100' file='det.output.xml' pos="193.35" />
+	<inductionLoop id="Det213_8" lane="L213_8" freq='100' file='det.output.xml' pos="236.99" />
+	<inductionLoop id="Det213_9" lane="L213_9" freq='100' file='det.output.xml' pos="236.99" />
+	<inductionLoop id="Det213_10" lane="L213_10" freq='100' file='det.output.xml' pos="236.99" />
+	<inductionLoop id="Det213_11" lane="L213_11" freq='100' file='det.output.xml' pos="236.99" />
+	
+	<inductionLoop id="Det215_1" lane="L215_1" freq='100' file='det.output.xml' pos="7.73" />
+	<inductionLoop id="Det215_2" lane="L215_2" freq='100' file='det.output.xml' pos="107.51" />
+	<inductionLoop id="Det215_3" lane="L215_3" freq='100' file='det.output.xml' pos="107.51" />
+	<inductionLoop id="Det215_4" lane="L215_4" freq='100' file='det.output.xml' pos="107.51" />
+	<inductionLoop id="Det215_5" lane="L215_5" freq='100' file='det.output.xml' pos="107.51" />
+	<inductionLoop id="Det215_6" lane="L215_6" freq='100' file='det.output.xml' pos="174.76" />
+	<inductionLoop id="Det215_7" lane="L215_7" freq='100' file='det.output.xml' pos="759.38" />
+	<inductionLoop id="Det215_8" lane="L215_8" freq='100' file='det.output.xml' pos="759.38" />
+	<inductionLoop id="Det215_9" lane="L215_9" freq='100' file='det.output.xml' pos="759.35" />
+	
+	<inductionLoop id="Det216_1" lane="L216_1" freq='100' file='det.output.xml' pos="90" />
+	<inductionLoop id="Det216_2" lane="L216_2" freq='100' file='det.output.xml' pos="88.44" />
+	<inductionLoop id="Det216_3" lane="L216_3" freq='100' file='det.output.xml' pos="88.44" />
+	<inductionLoop id="Det216_4" lane="L216_4" freq='100' file='det.output.xml' pos="88.44" />
+	<inductionLoop id="Det216_5" lane="L216_5" freq='100' file='det.output.xml' pos="14.68" />
+	<inductionLoop id="Det216_6" lane="L216_6" freq='100' file='det.output.xml' pos="14.68" />
+	<inductionLoop id="Det216_7" lane="L216_7" freq='100' file='det.output.xml' pos="250.71" />
+	<inductionLoop id="Det216_8" lane="L216_8" freq='100' file='det.output.xml' pos="250.71" />
+	<inductionLoop id="Det216_9" lane="L216_9" freq='100' file='det.output.xml' pos="250.71" />
+	<inductionLoop id="Det216_10" lane="L216_10" freq='100' file='det.output.xml' pos="250.71" />
+	
+	<inductionLoop id="Det223_1" lane="L223_1" freq='100' file='det.output.xml' pos="286.21" />
+	<inductionLoop id="Det223_2" lane="L223_2" freq='100' file='det.output.xml' pos="78.57" />
+	<inductionLoop id="Det223_3" lane="L223_3" freq='100' file='det.output.xml' pos="78.57" />
+	<inductionLoop id="Det223_4" lane="L223_4" freq='100' file='det.output.xml' pos="78.57" />
+	<inductionLoop id="Det223_5" lane="L223_5" freq='100' file='det.output.xml' pos="224.82" />
+	<inductionLoop id="Det223_6" lane="L223_6" freq='100' file='det.output.xml' pos="106.95" />
+	<inductionLoop id="Det223_7" lane="L223_7" freq='100' file='det.output.xml' pos="106.95" />
+</additional>

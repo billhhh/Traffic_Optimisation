@@ -1,0 +1,24 @@
+<additional>
+	<inductionLoop id='L213_1loop1' lane='L213_1' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_1loop2' lane='L213_1' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_10loop1' lane='L213_10' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_10loop2' lane='L213_10' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_11loop1' lane='L213_11' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_11loop2' lane='L213_11' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_2loop1' lane='L213_2' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_2loop2' lane='L213_2' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_3loop1' lane='L213_3' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_3loop2' lane='L213_3' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_4loop1' lane='L213_4' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_4loop2' lane='L213_4' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_5loop1' lane='L213_5' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_5loop2' lane='L213_5' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_6loop1' lane='L213_6' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_6loop2' lane='L213_6' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_7loop1' lane='L213_7' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_7loop2' lane='L213_7' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_8loop1' lane='L213_8' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_8loop2' lane='L213_8' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_9loop1' lane='L213_9' pos='-3' freq='100' file='resultsOfDetectors.xml'/>
+	<inductionLoop id='L213_9loop2' lane='L213_9' pos='-10' freq='100' file='resultsOfDetectors.xml'/>
+</additional>

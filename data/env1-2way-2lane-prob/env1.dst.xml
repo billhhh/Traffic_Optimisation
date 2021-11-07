@@ -1,0 +1,37 @@
+<edgedata>
+    <interval begin="0" end="10">
+        <edge id="-gneE2" value="60.00"/>
+        <edge id="gneE2" value="60.00"/>
+        <edge id="-gneE8" value="60.00"/>
+        <edge id="gneE8" value="60.00"/>
+        <edge id="-gneE9" value="60.00"/>
+        <edge id="gneE9" value="60.00"/>
+        <edge id="-gneE47" value="60.00"/>
+        <edge id="gneE47" value="60.00"/>
+        <edge id="-gneE15" value="60.00"/>
+        <edge id="gneE15" value="60.00"/>
+        <edge id="-gneE48" value="60.00"/>
+        <edge id="gneE48" value="60.00"/>
+
+        <edge id="-gneE21" value="20.00"/>
+        <edge id="gneE21" value="20.00"/>
+        <edge id="-gneE24" value="20.00"/>
+        <edge id="gneE24" value="20.00"/>
+        <edge id="-gneE25" value="20.00"/>
+        <edge id="gneE25" value="20.00"/>
+        <edge id="-gneE28" value="20.00"/>
+        <edge id="gneE28" value="20.00"/>
+        <edge id="-gneE29" value="20.00"/>
+        <edge id="gneE29" value="20.00"/>
+        <edge id="-gneE32" value="20.00"/>
+        <edge id="gneE32" value="20.00"/>
+        <edge id="-gneE38" value="20.00"/>
+        <edge id="gneE38" value="20.00"/>
+        <edge id="-gneE41" value="20.00"/>
+        <edge id="gneE41" value="20.00"/>
+        <edge id="-gneE43" value="20.00"/>
+        <edge id="gneE43" value="20.00"/>
+        <edge id="-gneE46" value="20.00"/>
+        <edge id="gneE46" value="20.00"/>
+    </interval>
+</edgedata>

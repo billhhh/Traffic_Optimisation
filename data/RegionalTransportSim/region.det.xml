@@ -1,0 +1,85 @@
+<a>
+	<detectorDefinition id="Det112_1" lane="L112_1" pos="140.53" />
+	<detectorDefinition id="Det112_2" lane="L112_2" pos="140.53" />
+	<detectorDefinition id="Det112_3" lane="L112_3" pos="1084.02" />
+	<detectorDefinition id="Det112_4" lane="L112_4" pos="1084.02" />
+	<detectorDefinition id="Det112_5" lane="L112_5" pos="210.57" />
+	<detectorDefinition id="Det112_6" lane="L112_6" pos="210.57" />
+	<detectorDefinition id="Det112_7" lane="L112_7" pos="145.32" />
+	
+	<detectorDefinition id="Det122_1" lane="L122_1" pos="78.05" />
+	<detectorDefinition id="Det122_2" lane="L122_2" pos="78.05" />
+	<detectorDefinition id="Det122_3" lane="L122_3" pos="55" />
+	<detectorDefinition id="Det122_4" lane="L122_4" pos="147.55" />
+	<detectorDefinition id="Det122_5" lane="L122_5" pos="147.55" />
+	<detectorDefinition id="Det122_6" lane="L122_6" pos="39.64" />
+	
+	<detectorDefinition id="Det209_1" lane="L209_1" pos="180.53" />
+	<detectorDefinition id="Det209_2" lane="L209_2" pos="180.53" />
+	<detectorDefinition id="Det209_3" lane="L209_3" pos="180.53" />
+	<detectorDefinition id="Det209_4" lane="L209_4" pos="12.87" />
+	<detectorDefinition id="Det209_5" lane="L209_5" pos="12.87" />
+	<detectorDefinition id="Det209_6" lane="L209_6" pos="12.87" />
+	<detectorDefinition id="Det209_7" lane="L209_7" pos="12.87" />
+	<detectorDefinition id="Det209_8" lane="L209_8" pos="130.35" />
+	<detectorDefinition id="Det209_9" lane="L209_9" pos="130.35" />
+	<detectorDefinition id="Det209_10" lane="L209_10" pos="130.35" />
+	
+	<detectorDefinition id="Det210_1" lane="L210_1" pos="15.23" />
+	<detectorDefinition id="Det210_2" lane="L210_2" pos="141.74" />
+	<detectorDefinition id="Det210_3" lane="L210_3" pos="141.74" />
+	<detectorDefinition id="Det210_4" lane="L210_4" pos="42.94" />
+	<detectorDefinition id="Det210_5" lane="L210_5" pos="80.62" />
+	<detectorDefinition id="Det210_6" lane="L210_6" pos="80.62" />
+	
+	<detectorDefinition id="Det212_1" lane="L212_1" pos="10.43" />
+	<detectorDefinition id="Det212_2" lane="L212_2" pos="98.59" />
+	<detectorDefinition id="Det212_3" lane="L212_3" pos="98.59" />
+	<detectorDefinition id="Det212_4" lane="L212_4" pos="98.59" />
+	<detectorDefinition id="Det212_5" lane="L212_5" pos="98.59" />
+	<detectorDefinition id="Det212_6" lane="L212_6" pos="111.25" />
+	<detectorDefinition id="Det212_7" lane="L212_7" pos="168.46" />
+	<detectorDefinition id="Det212_8" lane="L212_8" pos="168.46" />
+	<detectorDefinition id="Det212_9" lane="L212_9" pos="168.46" />
+	
+	<detectorDefinition id="Det213_1" lane="L213_1" pos="152.49" />
+	<detectorDefinition id="Det213_2" lane="L213_2" pos="152.49" />
+	<detectorDefinition id="Det213_3" lane="L213_3" pos="121.11" />
+	<detectorDefinition id="Det213_4" lane="L213_4" pos="121.11" />
+	<detectorDefinition id="Det213_5" lane="L213_5" pos="121.11" />
+	<detectorDefinition id="Det213_6" lane="L213_6" pos="121.11" />
+	<detectorDefinition id="Det213_7" lane="L213_7" pos="193.35" />
+	<detectorDefinition id="Det213_8" lane="L213_8" pos="236.99" />
+	<detectorDefinition id="Det213_9" lane="L213_9" pos="236.99" />
+	<detectorDefinition id="Det213_10" lane="L213_10" pos="236.99" />
+	<detectorDefinition id="Det213_11" lane="L213_11" pos="236.99" />
+	
+	<detectorDefinition id="Det215_1" lane="L215_1" pos="7.73" />
+	<detectorDefinition id="Det215_2" lane="L215_2" pos="107.51" />
+	<detectorDefinition id="Det215_3" lane="L215_3" pos="107.51" />
+	<detectorDefinition id="Det215_4" lane="L215_4" pos="107.51" />
+	<detectorDefinition id="Det215_5" lane="L215_5" pos="107.51" />
+	<detectorDefinition id="Det215_6" lane="L215_6" pos="174.76" />
+	<detectorDefinition id="Det215_7" lane="L215_7" pos="759.38" />
+	<detectorDefinition id="Det215_8" lane="L215_8" pos="759.38" />
+	<detectorDefinition id="Det215_9" lane="L215_9" pos="759.35" />
+	
+	<detectorDefinition id="Det216_1" lane="L216_1" pos="90" />
+	<detectorDefinition id="Det216_2" lane="L216_2" pos="88.44" />
+	<detectorDefinition id="Det216_3" lane="L216_3" pos="88.44" />
+	<detectorDefinition id="Det216_4" lane="L216_4" pos="88.44" />
+	<detectorDefinition id="Det216_5" lane="L216_5" pos="14.68" />
+	<detectorDefinition id="Det216_6" lane="L216_6" pos="14.68" />
+	<detectorDefinition id="Det216_7" lane="L216_7" pos="250.71" />
+	<detectorDefinition id="Det216_8" lane="L216_8" pos="250.71" />
+	<detectorDefinition id="Det216_9" lane="L216_9" pos="250.71" />
+	<detectorDefinition id="Det216_10" lane="L216_10" pos="250.71" />
+	
+	<detectorDefinition id="Det223_1" lane="L223_1" pos="286.21" />
+	<detectorDefinition id="Det223_2" lane="L223_2" pos="78.57" />
+	<detectorDefinition id="Det223_3" lane="L223_3" pos="78.57" />
+	<detectorDefinition id="Det223_4" lane="L223_4" pos="78.57" />
+	<detectorDefinition id="Det223_5" lane="L223_5" pos="224.82" />
+	<detectorDefinition id="Det223_6" lane="L223_6" pos="106.95" />
+	<detectorDefinition id="Det223_7" lane="L223_7" pos="106.95" />
+</a>
